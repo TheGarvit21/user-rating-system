@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Gaming Laptop",
+    "description": "High-performance laptop for gaming.",
+    "averageRating": 0
+  },
+  {
+    "id": 2,
+    "name": "Gaming Laptop 2",
+    "description": "High-performance laptop for gaming.",
+    "averageRating": 0
+  },
+  {
+    "id": 3,
+    "name": "Gaming Laptop 3",
+    "description": "High-performance laptop for gaming.",
+    "averageRating": 0
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "timestamp": "2025-02-18T12:10:15.394Z",
+    "rating": 5,
+    "message": "Amazing laptop! Super fast."
+  },
+  {
+    "id": 2,
+    "productId": 2,
+    "timestamp": "2025-02-18T12:10:23.006Z",
+    "rating": 3,
+    "message": "Amazing laptop! Super fast."
+  },
+  {
+    "id": 3,
+    "productId": 3,
+    "timestamp": "2025-02-18T12:10:28.858Z",
+    "rating": 4,
+    "message": "Amazing laptop! Super fast."
+  }
+]
